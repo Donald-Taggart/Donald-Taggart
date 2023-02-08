@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Don.  Husband to one amazing wife, and father to two exceptional daughters.  Join me as I transition to an exciting career in business intelligence and data analysis.  You can follow my progress by visiting my [portfolio](https://github.com/Donald-Taggart/Data-Analytics-Portfolio), and you can find more information about me [here](https://www.linkedin.com/in/donaldtaggart/).
+
 <!--
 **Donald-Taggart/Donald-Taggart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
