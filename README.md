@@ -5,7 +5,7 @@ I'm Don.  Husband to one amazing wife, and father to two exceptional daughters. 
 Want to know more about me?  Check out my [portfolio](https://github.com/Donald-Taggart/Data-Analytics-Portfolio), or connect with me on [LinkedIn](https://www.linkedin.com/in/donaldtaggart/).
 
 ### Personal Projects
-[BI-RADS](/Data-Analytics-Portfolio/Mammographic%20Prediction%20with%20BI-RADS%20Assessments/README.md)
+[BI-RADS](/Donald-Taggart/Data-Analytics-Portfolio/Mammographic%20Prediction%20with%20BI-RADS%20Assessments/README.md)
 
 <!--
 **Donald-Taggart/Donald-Taggart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
