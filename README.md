@@ -1,4 +1,4 @@
-![](Business%20Intelligence.png)
+[![](Business%20Intelligence.png)](https://github.com/Donald-Taggart/Data-Analytics-Portfolio)
 
 ### I'm Don,
 
