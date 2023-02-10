@@ -1,4 +1,4 @@
-![](Business%20Intelligence%20(1).png)
+![](Business%20Intelligence.png)
 
 ### I'm Don,
 
