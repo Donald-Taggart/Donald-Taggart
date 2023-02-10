@@ -1,3 +1,5 @@
+![](Business%20Intelligence%20(1).png)
+
 ### Hi there 👋
 
 I'm Don.  Husband to one amazing wife, and father to two exceptional daughters.  Join me as I transition to an exciting career in business intelligence and data analysis.  
