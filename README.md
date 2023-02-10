@@ -1,10 +1,8 @@
 ![](Business%20Intelligence%20(1).png)
 
-### Hi there 👋
+### I'm Don,
 
-I'm Don.  Husband to one amazing wife, and father to two exceptional daughters.  Join me as I transition to an exciting career in business intelligence and data analysis.  
-
-Want to know more about me?  Check out my [portfolio](https://github.com/Donald-Taggart/Data-Analytics-Portfolio), or connect with me on [LinkedIn](https://www.linkedin.com/in/donaldtaggart/).
+Husband to one amazing wife, and father to two exceptional daughters.  Follow my progress as I develop my business intelligence and data analysis skills.  Want to know more about me?  Check out my [portfolio](https://github.com/Donald-Taggart/Data-Analytics-Portfolio), or connect with me on [LinkedIn](https://www.linkedin.com/in/donaldtaggart/).
 
 ### Personal Projects
 [Mammographic Prediction with BI-RADS Assessments](https://github.com/Donald-Taggart/Data-Analytics-Portfolio/tree/main/Mammographic%20Prediction%20with%20BI-RADS%20Assessments)
@@ -22,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+👋
 -->
